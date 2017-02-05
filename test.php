@@ -1,7 +1,6 @@
 <?php
- //echo md5('ericroot');
-//冒泡排序函数
-/*
+
+/*  冒泡排序函数
 *@ $array 需要排序的数组
 *@ $sort 排序规则 0 降序rsort 1 升序sort
 *@return $ret 返回一个排好序的数组
